@@ -39,7 +39,7 @@ import os
 
 os.environ["GITHUB_TOKEN"] = "YOUR_TOKEN"
 ```
-### GeraçãoGraficos.ipynb
+### StatisticalAnalysis.ipynb
 
 Notebook responsible for reproducing the statistical results reported in the paper.
 
