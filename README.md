@@ -27,7 +27,18 @@ Main functionalities:
 - Repository filtering
 - Raw dataset construction
 - Exporting data to Parquet format
+- 
+## GitHub Token Configuration
 
+To execute the data collection pipeline, define a GitHub Personal Access Token.
+
+Example:
+
+```python
+import os
+
+os.environ["GITHUB_TOKEN"] = "YOUR_TOKEN"
+```
 ### GeraçãoGraficos.ipynb
 
 Notebook responsible for reproducing the statistical results reported in the paper.
