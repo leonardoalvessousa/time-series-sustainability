@@ -16,7 +16,7 @@ The replication package includes:
 
 ## Available Artifacts
 
-### ColetaGitHub.ipynb
+### GitHubDataCollection.ipynb
 
 Notebook responsible for mining data from GitHub.
 
